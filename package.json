@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "mapbox-gl": "3.3.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-map-gl": "7.1.7",
+    "vite": "^5.2.11"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.15",
+    "loader-utils": "3.2.1",
+    "typescript": "4.4.4"
+  },
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
